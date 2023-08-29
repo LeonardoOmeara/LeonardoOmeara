@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Leonardo Omeara</h1>
 <h3 align="center">a Software developer from Bogotá, Colombia</h3>
 
-- 🔭 I’m currently working on [Post-it](https://github.com/LeonardoOmeara/Post-it)
+- 🔭 I’m currently working on [Post-it](https://github.com/LeonardoOmeara/Post-it) using **NextJS and Firebase.** 
 
 - 🌱 I’m currently learning **NextJS and databases integrations**
 
 - 📝 Reach me at LinkedIn [https://www.linkedin.com/in/leonardo-omeara/](https://www.linkedin.com/in/leonardo-omeara/)
 
-- 💬 Ask me about **JavaScript, Databases and what makes me happy :)**
+- 💬 Ask me about **JavaScript and sports :)**
 
 - 📫 How to reach me **leonardogarzon32@outlook.com**
 
