@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **leonardogarzon32@outlook.com**
 
-- ⚡ Fun fact **I have a scar that seems like a fish**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
