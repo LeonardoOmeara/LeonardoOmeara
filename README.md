@@ -7,7 +7,6 @@
 
 - 📝 Reach me at LinkedIn [https://www.linkedin.com/in/leonardo-omeara/](https://www.linkedin.com/in/leonardo-omeara/)
 
-- 💬 Ask me about **JavaScript and sports :)**
 
 - 📫 How to reach me **leonardogarzon32@outlook.com**
 
