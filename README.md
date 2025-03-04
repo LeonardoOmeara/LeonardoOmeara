@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Leonardo Omeara</h1>
-<h3 align="center">a Software developer from Bogotá, Colombia</h3>
+<h3 align="center">a Software developer and systems Engineer from Bogotá, Colombia</h3>
 
-- 🔭 I’m currently working on [Post-it](https://github.com/LeonardoOmeara/Post-it) using **NextJS and Firebase.** 
-
-- 🌱 I’m currently learning **NextJS and databases integrations**
 
 - 📝 Reach me at LinkedIn [https://www.linkedin.com/in/leonardo-omeara/](https://www.linkedin.com/in/leonardo-omeara/)
 
