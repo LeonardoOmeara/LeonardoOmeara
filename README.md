@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leonardo Omeara</h1>
-<h3 align="center">a Software developer and systems Engineer from Bogotá, Colombia</h3>
+<h3 align="center">Software developer and systems Engineer from Bogotá, Colombia</h3>
 
 
 - 📝 Reach me at LinkedIn [https://www.linkedin.com/in/leonardo-omeara/](https://www.linkedin.com/in/leonardo-omeara/)
